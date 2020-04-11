@@ -13,3 +13,4 @@ C:\kafka_2.12-0.10.2.1>
 
 
 https://codenotfound.com/spring-kafka-json-serializer-deserializer-example.html
+https://memorynotfound.com/spring-kafka-json-serializer-deserializer-example
